@@ -16,17 +16,40 @@ body{
     height: 78px;
     line-height: initial;
     border-bottom:  1px solid #f3e2ba;
-    box-shadow:calc(15)  ;
+    /* box-shadow: 0 0 0 18px  #101929 ; */
 
     
     /* border-color: #f3e2ba; */
 }
-.nav-item{
+.nav-item1{
     padding-left: 20px !important;
+    
     /* font-weight: 10px !important; */
 }
 .nav-link{
     font-family: Charlemagne Std !important;
     font-weight: bold !important;
     color:#f3e2ba !important;
+}
+
+.title{
+    padding-top: 50px;
+    /* padding-bottom: 200px; */
+    text-align: center;
+}
+h1{
+    color: #f3e2ba !important;
+    /* text-align: center; */
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 97px !important;
+    font-family: Archeologicaps !important;
+}
+h2{
+    color: #f3e2ba !important;
+    /* text-align: center; */
+    font-weight:500;
+    text-transform: uppercase;
+    font-size: 37px !;
+    font-family: Archeologicaps regular;
 }
