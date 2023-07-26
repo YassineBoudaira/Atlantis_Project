@@ -1,0 +1,38 @@
+or create a new repository on the command line
+echo "# portfolioo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/YassineBoudaira/portfolioo.git
+git push -u origin main
+
+
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/YassineBoudaira/portfolioo.git
+git branch -M main
+git push -u origin main
+
+git status 
+git add -a
+git commit -m "initial commit"
+git log
+git remote add
+
+
+
+------
+ssh
+------
+ssh-key gen.exe
+my = AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl
+
+ 
+
+
+
+
+-----------------------------
+rename brunch: git brunch -M main

@@ -1,0 +1,32 @@
+
+body{
+    background-color: #000c15 !important;
+}
+.background{
+    background-image: url(Images/BackgroundImage.png);
+    background-size: contain;
+    /* width: 1912px; */
+    height: 1069px;
+    background-repeat: no-repeat;
+    /* box-shadow:200px aqua; */
+    }
+
+.navbar{
+    background:transparent !important;
+    height: 78px;
+    line-height: initial;
+    border-bottom:  1px solid #f3e2ba;
+    box-shadow:calc(15)  ;
+
+    
+    /* border-color: #f3e2ba; */
+}
+.nav-item{
+    padding-left: 20px !important;
+    /* font-weight: 10px !important; */
+}
+.nav-link{
+    font-family: Charlemagne Std !important;
+    font-weight: bold !important;
+    color:#f3e2ba !important;
+}
