@@ -38,7 +38,7 @@ body{
 }
 
 .title{
-    padding-top: 50px;
+    padding-top: 200px;
     /* padding-bottom: 200px; */
     text-align: center;
 }
@@ -59,11 +59,34 @@ h2{
     font-family: Archeologicaps regular;
 }
 .image{
-    object-fit: cover;
-    width: 100%;
+    object-fit:cover; 
+     width: 100%;
+    
 }
 /* <!-- methode ---------- 1 with css --> */
 /* div.imgbody p{
     position: absolute;
     bottom: 0;
 } */
+.card{
+    margin-top: 200px;
+}
+div.card-img-overlay p{
+    margin-bottom:10px ;
+    margin-top: 150px;
+    color:#f3e2ba;
+    font-family: Gotham !important;
+    font-size:17px;
+    font-weight: lighter ;
+    /* font-kerning: initial; */
+    text-align: center;
+    text-transform: uppercase;
+    text-size-adjust:unset;
+}
+button{
+    
+    border-color:#f3e2ba !important; 
+    color: #f3e2ba;
+    
+
+}
