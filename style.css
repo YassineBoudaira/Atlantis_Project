@@ -38,7 +38,7 @@ body{
 }
 
 .title{
-    padding-top: 200px;
+    padding-top: 150px;
     /* padding-bottom: 200px; */
     text-align: center;
 }
@@ -84,9 +84,16 @@ div.card-img-overlay p{
     text-size-adjust:unset;
 }
 button{
-    
+    margin-top: 138px !important;
+    text-transform: uppercase !important;
+    font-size: 22.5px !important;
+    text-align: center;
+    font-style:Gotham !important;
+    /* size: 100px !important; */
     border-color:#f3e2ba !important; 
-    color: #f3e2ba;
-    
-
+    color: #f3e2ba !important;
+    /* padding-left: 30px !important;
+    padding-right: 30px !important; */
+    width:347px;
+    height: 74px;
 }
